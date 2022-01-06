@@ -1,0 +1,19 @@
+= Naresh Chaurasia
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+NOTE: NOTE
+
+TIP: TIP
+
+IMPORTANT: IMPORTANT
+
+CAUTION: CAUTION
+
+WARNING: WARNING
+
+== AWS Certification
+
+* message4naresh@gmail.com : Search for the mail with subject: `Congratulations on passing your AWS Certification exam!`
